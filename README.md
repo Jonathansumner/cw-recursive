@@ -6,8 +6,8 @@ This contract is used exclusively for testing purposes at present.
 
 
 #### Example Instantiation Arguments
-```json
-This example would recursively instantiate a stored contract three times
+```
+// This example would recursively instantiate a stored contract three times
 {
   "code_id": code_id_of_contract, // The code_id of the stored contract to recursively instantiate
   "depth": 3 // The number of times to recurse
