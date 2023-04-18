@@ -1,7 +1,7 @@
 # Recursive Contract
-This contract is used excusively for testing purposes at present.
+This contract is used exclusively for testing purposes at present.
 
-- When instantiated, this contract will recursively instantiate itself to a specified depth.
+- When instantiated this contract will recursively instantiate itself to a specified depth.
 - This functionality is necessary to test the handling of recursive contracts within the [ledger-subquery](www.github.com/fetchai/ledger-subquery.git) indexer.
 
 
